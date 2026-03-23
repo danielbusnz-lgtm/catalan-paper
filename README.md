@@ -1,7 +1,3 @@
-# On the Greatest Common Divisor of Consecutive Catalan Numbers
-
-[Download PDF](paper.pdf)
-
 ![Page 1](images/page-1.png)
 ![Page 2](images/page-2.png)
 ![Page 3](images/page-3.png)
